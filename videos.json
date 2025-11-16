@@ -1,27 +1,129 @@
-[
-  "https://www.youtube.com/watch?v=d-kep3RgePc",
-  "https://www.youtube.com/watch?v=XH0_CbzrYB8",
-  "https://www.youtube.com/watch?v=NbReDdenm-A",
-  "https://www.youtube.com/watch?v=P-jGu1pNMiU",
-  "https://www.youtube.com/watch?v=7WDJA9x8lUo",
-  "https://www.youtube.com/watch?v=nPxo-mvl1uM",
-  "https://www.youtube.com/watch?v=FD1PH9HCSLI",
-  "https://www.youtube.com/watch?v=E5rnuXWilUc",
-  "https://www.youtube.com/watch?v=iPbCSmeSTM4",
-  "https://www.youtube.com/watch?v=F-LxPLmCDK0",
-  "https://www.youtube.com/watch?v=jWxZqj0LyhM",
-  "https://www.youtube.com/watch?v=wK6nX5z46Vk",
-  "https://www.youtube.com/watch?v=ZjAWS19DCIE",
-  "https://www.youtube.com/watch?v=oeMqkW0wK_g",
-  "https://www.youtube.com/watch?v=wQR54LxdseU",
-  "https://www.youtube.com/watch?v=wmNYgmNO1pw",
-  "https://www.youtube.com/watch?v=VDcHYO6QixU",
-  "https://www.youtube.com/watch?v=79S4f719ZNo",
-  "https://www.youtube.com/watch?v=4pg_7UlOBPw",
-  "https://www.youtube.com/watch?v=TrJiHQhvyuc",
-  "https://www.youtube.com/watch?v=2gbMLxjEEYY",
-  "https://www.youtube.com/watch?v=rdu47cTg8MY",
-  "https://www.youtube.com/watch?v=56VHCuha0Jc",
-  "https://www.youtube.com/watch?v=wmNYgmNO1pw",
-  "https://www.youtube.com/watch?v=W7vL35sFMhA"
-]
+{
+  "videos": [
+    {
+      "title": "Video 1",
+      "url": "https://www.youtube.com/watch?v=d-kep3RgePc",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 2",
+      "url": "https://www.youtube.com/watch?v=XH0_CbzrYB8",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 3",
+      "url": "https://www.youtube.com/watch?v=NbReDdenm-A",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 4",
+      "url": "https://www.youtube.com/watch?v=P-jGu1pNMiU",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 5",
+      "url": "https://www.youtube.com/watch?v=7WDJA9x8lUo",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 6",
+      "url": "https://www.youtube.com/watch?v=nPxo-mvl1uM",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 7",
+      "url": "https://www.youtube.com/watch?v=FD1PH9HCSLI",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 8",
+      "url": "https://www.youtube.com/watch?v=E5rnuXWilUc",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 9",
+      "url": "https://www.youtube.com/watch?v=iPbCSmeSTM4",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 10",
+      "url": "https://www.youtube.com/watch?v=F-LxPLmCDK0",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 11",
+      "url": "https://www.youtube.com/watch?v=jWxZqj0LyhM",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 12",
+      "url": "https://www.youtube.com/watch?v=wK6nX5z46Vk",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 13",
+      "url": "https://www.youtube.com/watch?v=ZjAWS19DCIE",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 14",
+      "url": "https://www.youtube.com/watch?v=oeMqkW0wK_g",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 15",
+      "url": "https://www.youtube.com/watch?v=wQR54LxdseU",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 16",
+      "url": "https://www.youtube.com/watch?v=wmNYgmNO1pw",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 17",
+      "url": "https://www.youtube.com/watch?v=VDcHYO6QixU",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 18",
+      "url": "https://www.youtube.com/watch?v=79S4f719ZNo",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 19",
+      "url": "https://www.youtube.com/watch?v=4pg_7UlOBPw",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 20",
+      "url": "https://www.youtube.com/watch?v=TrJiHQhvyuc",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 21",
+      "url": "https://www.youtube.com/watch?v=2gbMLxjEEYY",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 22",
+      "url": "https://www.youtube.com/watch?v=rdu47cTg8MY",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 23",
+      "url": "https://www.youtube.com/watch?v=56VHCuha0Jc",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 24",
+      "url": "https://www.youtube.com/watch?v=wmNYgmNO1pw",
+      "description": "Enjoy this creative and inspiring art video"
+    },
+    {
+      "title": "Video 25",
+      "url": "https://www.youtube.com/watch?v=W7vL35sFMhA",
+      "description": "Enjoy this creative and inspiring art video"
+    }
+  ]
+}
